@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Sans Serif, sans-serif;
+    background: #F8F8FF;
+    color: #191970;
+}
+
+h1, h2 {
+    font-family: Futura, serif;
+    color: #FFFFFF;
+}
+
+a {
+    color: #000000;
+}
+
+section {
+    padding: 3rem;
+}
