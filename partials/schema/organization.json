@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Immigrate to Distrito Federal",
+  "description": "The Federal District of Brazil, home to Bras\u00edlia, is the nation's political center and a UNESCO-listed planned city. Known for Oscar Niemeyer's modernist architecture, high living standards, and a strong public-sector economy, it serves as a hub for diplomacy, government, and innovation.",
+  "keywords": "Federal District, Bras\u00edlia, Central-West, candango, cerrado, Oscar Niemeyer, Parano\u00e1 Lake, National Congress",
+  "url": "https://immigratetobrazil.com/df/",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Distrito Federal",
+    "addressCountry": "BR"
+  },
+  "sameAs": [
+    "http://www.df.gov.br/",
+    "http://www.cl.df.gov.br/",
+    "http://www.tjdft.jus.br/"
+  ]
+}
