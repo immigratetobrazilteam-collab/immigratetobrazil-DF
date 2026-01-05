@@ -1,8 +1,39 @@
-<nav aria-label="Primary navigation">
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/services">Services</a></li>
-        <li><a href="/services/artistic-visa">Artistic Visa</a></li>
-        <li><a href="/df">Explore Distrito Federal</a></li>
-    </ul>
+<nav aria-label="Primary navigation" class="bg-[#FFFFFF] text-white shadow-md" itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <div class="container mx-auto px-4">
+        <ul class="flex flex-wrap gap-4 py-4 justify-center md:justify-start">
+            <li><a href="/" class="px-4 py-2 hover:bg-white/10 rounded" title="Home page">Home</a></li>
+            <li class="relative group">
+                <a href="/services" class="px-4 py-2 hover:bg-white/10 rounded aria-haspopup="true" aria-expanded="false">Services</a>
+                <ul class="absolute hidden group-hover:block bg-white text-[#191970] shadow-lg rounded-md p-4 min-w-max z-10">
+                    <li class="font-bold mb-1">Travel Services</li>
+                    
+                    <li class="font-bold mt-2 mb-1">Brazilian Visas</li>
+                    <li><a href="/visas/artistic-visa" class="block px-4 py-2 hover:bg-[#000000]/20" title="Artistic Visa">Artistic Visa</a></li>
+                    <li class="font-bold mt-2 mb-1">Residency Permits</li>
+                    
+                    <li class="font-bold mt-2 mb-1">Citizenship & Naturalisation</li>
+                    
+                    <li class="font-bold mt-2 mb-1">Other Services</li>
+                    
+                </ul>
+            </li>
+            <li class="relative group">
+                <a href="/df" class="px-4 py-2 hover:bg-white/10 rounded aria-haspopup="true" aria-expanded="false">Explore Distrito Federal</a>
+                <ul class="absolute hidden group-hover:block bg-white text-[#191970] shadow-lg rounded-md p-4 min-w-max z-10">
+                    <li><a href="/explore/brasília-metropolitan-cathedral" class="block px-4 py-2 hover:bg-[#000000]/20" title="Brasília Metropolitan Cathedral">Brasília Metropolitan Cathedral</a></li><li><a href="/explore/three-powers-square-(praça-dos-três-poderes)" class="block px-4 py-2 hover:bg-[#000000]/20" title="Three Powers Square (Praça dos Três Poderes)">Three Powers Square (Praça dos Três Poderes)</a></li><li><a href="/explore/national-congress-of-brazil" class="block px-4 py-2 hover:bg-[#000000]/20" title="National Congress of Brazil">National Congress of Brazil</a></li><li><a href="/explore/palácio-do-planalto" class="block px-4 py-2 hover:bg-[#000000]/20" title="Palácio do Planalto">Palácio do Planalto</a></li><li><a href="/explore/palácio-da-alvorada" class="block px-4 py-2 hover:bg-[#000000]/20" title="Palácio da Alvorada">Palácio da Alvorada</a></li><li><a href="/explore/paranoá-lake" class="block px-4 py-2 hover:bg-[#000000]/20" title="Paranoá Lake">Paranoá Lake</a></li><li><a href="/explore/cerrado-biome" class="block px-4 py-2 hover:bg-[#000000]/20" title="Cerrado biome">Cerrado biome</a></li><li><a href="/explore/chapadas-and-plateaus" class="block px-4 py-2 hover:bg-[#000000]/20" title="Chapadas and plateaus">Chapadas and plateaus</a></li><li><a href="/explore/pico-do-roncador-(serra-do-sobradinho)" class="block px-4 py-2 hover:bg-[#000000]/20" title="Pico do Roncador (Serra do Sobradinho)">Pico do Roncador (Serra do Sobradinho)</a></li><li><a href="/explore/parque-da-cidade-sarah-kubitschek" class="block px-4 py-2 hover:bg-[#000000]/20" title="Parque da Cidade Sarah Kubitschek">Parque da Cidade Sarah Kubitschek</a></li><li><a href="/explore/brasília-national-park-(água-mineral)" class="block px-4 py-2 hover:bg-[#000000]/20" title="Brasília National Park (Água Mineral)">Brasília National Park (Água Mineral)</a></li><li><a href="/explore/jardim-botânico-de-brasília" class="block px-4 py-2 hover:bg-[#000000]/20" title="Jardim Botânico de Brasília">Jardim Botânico de Brasília</a></li><li><a href="/explore/pamonha" class="block px-4 py-2 hover:bg-[#000000]/20" title="Pamonha">Pamonha</a></li><li><a href="/explore/pequi-based-dishes" class="block px-4 py-2 hover:bg-[#000000]/20" title="Pequi-based dishes">Pequi-based dishes</a></li><li><a href="/explore/grilled-meats-(churrasco)" class="block px-4 py-2 hover:bg-[#000000]/20" title="Grilled meats (churrasco)">Grilled meats (churrasco)</a></li><li><a href="/explore/empadão-goiano-(regional-influence)" class="block px-4 py-2 hover:bg-[#000000]/20" title="Empadão goiano (regional influence)">Empadão goiano (regional influence)</a></li>
+                </ul>
+            </li>
+            <li><a href="/contact" class="px-4 py-2 hover:bg-white/10 rounded" title="Contact Us">Contact</a></li>
+            <li><a href="/faq" class="px-4 py-2 hover:bg-white/10 rounded" title="Frequently Asked Questions">FAQ</a></li>
+            <li><a href="/blog" class="px-4 py-2 hover:bg-white/10 rounded" title="Blog">Blog</a></li>
+            <li><a href="/about" class="px-4 py-2 hover:bg-white/10 rounded" title="About Us">About</a></li>
+        </ul>
+    </div>
+    <script>
+        // Desktop hover with keyboard support
+        document.querySelectorAll('.group > a[aria-haspopup]').forEach(toggle => {
+            toggle.addEventListener('focus', () => toggle.nextElementSibling.classList.add('block'));
+            toggle.addEventListener('blur', (e) => { if (!toggle.parentElement.contains(e.relatedTarget)) toggle.nextElementSibling.classList.remove('block'); });
+        });
+    </script>
 </nav>
