@@ -1,1097 +1,664 @@
-df/
+DF/
 ├─ index.html
-│  ├─ df-index-section-immigrate-to-distrito-federal
-│  ├─ df-index-form-immigrate-to-distrito-federal
-│  ├─ df-index-section-state-vibe
-│  ├─ df-index-section-quick-facts-snapshot
-│  ├─ df-index-section-distrito-federal-map
-│  ├─ df-index-section-cost-of-living-distrito-federal
-│  ├─ df-index-section-government-context
-│  ├─ df-index-hero-immigration-notes
-│  ├─ df-index-list-common-applicant-profiles
-│  ├─ df-index-list-economic-drivers
-│  ├─ df-index-section-demographics
-│  ├─ df-index-section-regional-challenges
-│  ├─ df-index-section-regional-opportunities
-│  ├─ df-index-section-culture-daily-life
-│  ├─ df-index-list-local-language-expressions
-│  ├─ df-index-list-food-cuisine
-│  ├─ df-index-list-festivals-traditions
-│  ├─ df-index-list-music-artistic-expression
-│  ├─ df-index-list-sports-recreation
-│  ├─ df-index-list-landmarks-historical-sites
-│  ├─ df-index-list-natural-features
-│  ├─ df-index-list-parks-protected-areas
-│  ├─ df-index-list-museums-cultural-institutions
-│  ├─ df-index-section-image-gallery
-│  ├─ df-index-section-useful-government-links
-│  ├─ df-index-hero-federal-police-immigration-links
-│  ├─ df-index-section-external-references
-│  ├─ df-index-list-immigration-services-overview
-│  ├─ df-index-section-why-immigrate-here
-│  ├─ contact
-│  ├─ df-index-list-travel-services
-│  ├─ df-index-list-how-the-process-works
-│  ├─ df-index-section--frequently-asked-questions-about-living-in-distrito-federal-
-│  ├─ contact
+│  ├─ df-index-section--map
+│  ├─ df-index-section-frequently-asked-questions-about-living-in-
+│  ├─ df-index-contact
 
-├─ contact-cta.html
-│  ├─ df-contactcta-section-get-started-in-distrito-federal
+├─ footer.html
+│  ├─ main-footer
 
-├─ renouncing-citizenship.html
-│  ├─ df-renouncingcitizenship-form-renounce-brazilian-citizenship
-│  ├─ df-renouncingcitizenship-list-quick-facts
-│  ├─ df-renouncingcitizenship-list-common-challenges-applicants-face
-│  ├─ df-renouncingcitizenship-list-how-we-solve-these-challenges
-│  ├─ df-renouncingcitizenship-section-renunciation-overview
-│  ├─ df-renouncingcitizenship-form-who-is-this-for
-│  ├─ df-renouncingcitizenship-list-required-documents
-│  ├─ df-renouncingcitizenship-list-process
-│  ├─ df-renouncingcitizenship-section-timelines-deadlines
-│  ├─ df-renouncingcitizenship-section-fees-costs
-│  ├─ df-renouncingcitizenship-list-risks-common-mistakes
-│  ├─ df-renouncingcitizenship-section-diy-vs-professional-assistance
-│  ├─ df-renouncingcitizenship-section-distrito-federal-specific-context
-│  ├─ df-renouncingcitizenship-section-what-our-clients-say
-│  ├─ df-renouncingcitizenship-section-frequently-asked-questions
-│  ├─ df-renouncingcitizenship-section-international-support
-│  ├─ application-form
-│  ├─ df-renouncingcitizenship-list-our-credentials
-│  ├─ df-renouncingcitizenship-list-related-services
-│  ├─ df-renouncingcitizenship-section-youre-in-good-hands
-│  ├─ df-renouncingcitizenship-section-21
+├─ header.html
+│  ├─ main-header
 
-├─ provisional.html
-│  ├─ df-provisional-form-provisional-naturalisation-in-brazil-for-minors
-│  ├─ df-provisional-list-quick-facts
-│  ├─ df-provisional-list-common-challenges-applicants-face
-│  ├─ df-provisional-list-how-we-solve-these-challenges
-│  ├─ df-provisional-section-naturalisation-overview
-│  ├─ df-provisional-form-who-is-this-naturalisation-for
-│  ├─ df-provisional-list-required-documents
-│  ├─ df-provisional-list-application-process
-│  ├─ df-provisional-section-timelines-deadlines
-│  ├─ df-provisional-section-fees-costs
-│  ├─ df-provisional-list-risks-common-mistakes
-│  ├─ df-provisional-section-diy-vs-professional-assistance
-│  ├─ df-provisional-section-distrito-federal-specific-context
-│  ├─ df-provisional-section-what-our-clients-say
-│  ├─ df-provisional-section-frequently-asked-questions
-│  ├─ df-provisional-section-international-support
-│  ├─ application-form
-│  ├─ df-provisional-list-our-credentials
-│  ├─ df-provisional-list-related-services
-│  ├─ df-provisional-section-youre-in-good-hands
-│  ├─ df-provisional-section-21
-
-├─ special.html
-│  ├─ df-special-form-special-naturalisation-in-brazil-for-particular-cases
-│  ├─ df-special-list-quick-facts
-│  ├─ df-special-list-common-challenges-applicants-face
-│  ├─ df-special-list-how-we-solve-these-challenges
-│  ├─ df-special-section-naturalisation-overview
-│  ├─ df-special-form-who-is-this-naturalisation-for
-│  ├─ df-special-list-required-documents
-│  ├─ df-special-list-application-process
-│  ├─ df-special-section-timelines-deadlines
-│  ├─ df-special-section-fees-costs
-│  ├─ df-special-list-risks-common-mistakes
-│  ├─ df-special-section-diy-vs-professional-assistance
-│  ├─ df-special-section-distrito-federal-specific-context
-│  ├─ df-special-section-what-our-clients-say
-│  ├─ df-special-section-frequently-asked-questions
-│  ├─ df-special-section-international-support
-│  ├─ application-form
-│  ├─ df-special-list-our-credentials
-│  ├─ df-special-list-related-services
-│  ├─ df-special-section-youre-in-good-hands
-│  ├─ df-special-section-21
-
-├─ ordinary.html
-│  ├─ df-ordinary-form-obtain-brazilian-citizenship-through-ordinary-naturalisation
-│  ├─ df-ordinary-list-quick-facts
-│  ├─ df-ordinary-list-common-challenges-applicants-face
-│  ├─ df-ordinary-list-how-we-solve-these-challenges
-│  ├─ df-ordinary-section-naturalisation-overview
-│  ├─ df-ordinary-form-who-is-this-naturalisation-for
-│  ├─ df-ordinary-list-required-documents
-│  ├─ df-ordinary-list-application-process
-│  ├─ df-ordinary-section-timelines-deadlines
-│  ├─ df-ordinary-section-fees-costs
-│  ├─ df-ordinary-list-risks-common-mistakes
-│  ├─ df-ordinary-section-diy-vs-professional-assistance
-│  ├─ df-ordinary-section-distrito-federal-specific-context
-│  ├─ df-ordinary-section-what-our-clients-say
-│  ├─ df-ordinary-section-frequently-asked-questions
-│  ├─ df-ordinary-section-international-support
-│  ├─ application-form
-│  ├─ df-ordinary-list-our-credentials
-│  ├─ df-ordinary-list-related-services
-│  ├─ df-ordinary-section-youre-in-good-hands
-│  ├─ df-ordinary-section-21
-
-├─ extraordinary.html
-│  ├─ df-extraordinary-form-extraordinary-naturalisation-in-brazil-for-contributions
-│  ├─ df-extraordinary-list-quick-facts
-│  ├─ df-extraordinary-list-common-challenges-applicants-face
-│  ├─ df-extraordinary-list-how-we-solve-these-challenges
-│  ├─ df-extraordinary-section-naturalisation-overview
-│  ├─ df-extraordinary-form-who-is-this-naturalisation-for
-│  ├─ df-extraordinary-list-required-documents
-│  ├─ df-extraordinary-list-application-process
-│  ├─ df-extraordinary-section-timelines-deadlines
-│  ├─ df-extraordinary-section-fees-costs
-│  ├─ df-extraordinary-list-risks-common-mistakes
-│  ├─ df-extraordinary-section-diy-vs-professional-assistance
-│  ├─ df-extraordinary-section-distrito-federal-specific-context
-│  ├─ df-extraordinary-section-what-our-clients-say
-│  ├─ df-extraordinary-section-frequently-asked-questions
-│  ├─ df-extraordinary-section-international-support
-│  ├─ application-form
-│  ├─ df-extraordinary-list-our-credentials
-│  ├─ df-extraordinary-list-related-services
-│  ├─ df-extraordinary-section-youre-in-good-hands
-│  ├─ df-extraordinary-section-21
-
-├─ reacquisition-citizenship.html
-│  ├─ df-reacquisitioncitizenship-form-reacquire-brazilian-citizenship
-│  ├─ df-reacquisitioncitizenship-list-quick-facts
-│  ├─ df-reacquisitioncitizenship-list-common-challenges-applicants-face
-│  ├─ df-reacquisitioncitizenship-list-how-we-solve-these-challenges
-│  ├─ df-reacquisitioncitizenship-section-reacquisition-overview
-│  ├─ df-reacquisitioncitizenship-form-who-is-this-for
-│  ├─ df-reacquisitioncitizenship-list-required-documents
-│  ├─ df-reacquisitioncitizenship-list-process
-│  ├─ df-reacquisitioncitizenship-section-timelines-deadlines
-│  ├─ df-reacquisitioncitizenship-section-fees-costs
-│  ├─ df-reacquisitioncitizenship-list-risks-common-mistakes
-│  ├─ df-reacquisitioncitizenship-section-diy-vs-professional-assistance
-│  ├─ df-reacquisitioncitizenship-section-distrito-federal-specific-context
-│  ├─ df-reacquisitioncitizenship-section-what-our-clients-say
-│  ├─ df-reacquisitioncitizenship-section-frequently-asked-questions
-│  ├─ df-reacquisitioncitizenship-section-international-support
-│  ├─ application-form
-│  ├─ df-reacquisitioncitizenship-list-our-credentials
-│  ├─ df-reacquisitioncitizenship-list-related-services
-│  ├─ df-reacquisitioncitizenship-section-youre-in-good-hands
-│  ├─ df-reacquisitioncitizenship-section-21
-
-├─ scientific-research.html
-│  ├─ df-scientificresearch-form-conduct-scientific-research-with-residency-in-brazil
-│  ├─ df-scientificresearch-list-quick-facts
-│  ├─ df-scientificresearch-list-common-challenges-applicants-face
-│  ├─ df-scientificresearch-list-how-we-solve-these-challenges
-│  ├─ df-scientificresearch-section-residency-overview
-│  ├─ df-scientificresearch-form-who-is-this-residency-for
-│  ├─ df-scientificresearch-list-required-documents
-│  ├─ df-scientificresearch-list-application-process
-│  ├─ df-scientificresearch-section-timelines-deadlines
-│  ├─ df-scientificresearch-section-fees-costs
-│  ├─ df-scientificresearch-list-risks-common-mistakes
-│  ├─ df-scientificresearch-section-diy-vs-professional-assistance
-│  ├─ df-scientificresearch-section-distrito-federal-specific-context
-│  ├─ df-scientificresearch-section-what-our-clients-say
-│  ├─ df-scientificresearch-section-frequently-asked-questions
-│  ├─ df-scientificresearch-section-international-support
-│  ├─ application-form
-│  ├─ df-scientificresearch-list-our-credentials
-│  ├─ df-scientificresearch-list-related-services
-│  ├─ df-scientificresearch-section-youre-in-good-hands
-│  ├─ df-scientificresearch-section-21
-
-├─ study.html
-│  ├─ df-study-form-study-in-brazil-with-study-residency
-│  ├─ df-study-list-quick-facts
-│  ├─ df-study-list-common-challenges-applicants-face
-│  ├─ df-study-list-how-we-solve-these-challenges
-│  ├─ df-study-section-residency-overview
-│  ├─ df-study-form-who-is-this-residency-for
-│  ├─ df-study-list-required-documents
-│  ├─ df-study-list-application-process
-│  ├─ df-study-section-timelines-deadlines
-│  ├─ df-study-section-fees-costs
-│  ├─ df-study-list-risks-common-mistakes
-│  ├─ df-study-section-diy-vs-professional-assistance
-│  ├─ df-study-section-distrito-federal-specific-context
-│  ├─ df-study-section-what-our-clients-say
-│  ├─ df-study-section-frequently-asked-questions
-│  ├─ df-study-section-international-support
-│  ├─ application-form
-│  ├─ df-study-list-our-credentials
-│  ├─ df-study-list-related-services
-│  ├─ df-study-section-youre-in-good-hands
-│  ├─ df-study-section-21
-
-├─ educational-exchange.html
-│  ├─ df-educationalexchange-form-participate-in-educational-exchanges-with-residency-in-brazil
-│  ├─ df-educationalexchange-list-quick-facts
-│  ├─ df-educationalexchange-list-common-challenges-applicants-face
-│  ├─ df-educationalexchange-list-how-we-solve-these-challenges
-│  ├─ df-educationalexchange-section-residency-overview
-│  ├─ df-educationalexchange-form-who-is-this-residency-for
-│  ├─ df-educationalexchange-list-required-documents
-│  ├─ df-educationalexchange-list-application-process
-│  ├─ df-educationalexchange-section-timelines-deadlines
-│  ├─ df-educationalexchange-section-fees-costs
-│  ├─ df-educationalexchange-list-risks-common-mistakes
-│  ├─ df-educationalexchange-section-diy-vs-professional-assistance
-│  ├─ df-educationalexchange-section-distrito-federal-specific-context
-│  ├─ df-educationalexchange-section-what-our-clients-say
-│  ├─ df-educationalexchange-section-frequently-asked-questions
-│  ├─ df-educationalexchange-section-international-support
-│  ├─ application-form
-│  ├─ df-educationalexchange-list-our-credentials
-│  ├─ df-educationalexchange-list-related-services
-│  ├─ df-educationalexchange-section-youre-in-good-hands
-│  ├─ df-educationalexchange-section-21
-
-├─ humanitarian.html
-│  ├─ df-humanitarian-form-humanitarian-residency-in-brazil-for-protection
-│  ├─ df-humanitarian-list-quick-facts
-│  ├─ df-humanitarian-list-common-challenges-applicants-face
-│  ├─ df-humanitarian-list-how-we-solve-these-challenges
-│  ├─ df-humanitarian-section-residency-overview
-│  ├─ df-humanitarian-form-who-is-this-residency-for
-│  ├─ df-humanitarian-list-required-documents
-│  ├─ df-humanitarian-list-application-process
-│  ├─ df-humanitarian-section-timelines-deadlines
-│  ├─ df-humanitarian-section-fees-costs
-│  ├─ df-humanitarian-list-risks-common-mistakes
-│  ├─ df-humanitarian-section-diy-vs-professional-assistance
-│  ├─ df-humanitarian-section-distrito-federal-specific-context
-│  ├─ df-humanitarian-section-what-our-clients-say
-│  ├─ df-humanitarian-section-frequently-asked-questions
-│  ├─ df-humanitarian-section-international-support
-│  ├─ application-form
-│  ├─ df-humanitarian-list-our-credentials
-│  ├─ df-humanitarian-list-related-services
-│  ├─ df-humanitarian-section-youre-in-good-hands
-│  ├─ df-humanitarian-section-21
-
-├─ digital-nomad.html
-│  ├─ df-digitalnomad-form-digital-nomad-residency-in-brazil
-│  ├─ df-digitalnomad-list-quick-facts
-│  ├─ df-digitalnomad-list-common-challenges-applicants-face
-│  ├─ df-digitalnomad-list-how-we-solve-these-challenges
-│  ├─ df-digitalnomad-section-residency-overview
-│  ├─ df-digitalnomad-form-who-is-this-residency-for
-│  ├─ df-digitalnomad-list-required-documents
-│  ├─ df-digitalnomad-list-application-process
-│  ├─ df-digitalnomad-section-timelines-deadlines
-│  ├─ df-digitalnomad-section-fees-costs
-│  ├─ df-digitalnomad-list-risks-common-mistakes
-│  ├─ df-digitalnomad-section-diy-vs-professional-assistance
-│  ├─ df-digitalnomad-section-distrito-federal-specific-context
-│  ├─ df-digitalnomad-section-what-our-clients-say
-│  ├─ df-digitalnomad-section-frequently-asked-questions
-│  ├─ df-digitalnomad-section-international-support
-│  ├─ application-form
-│  ├─ df-digitalnomad-list-our-credentials
-│  ├─ df-digitalnomad-list-related-services
-│  ├─ df-digitalnomad-section-youre-in-good-hands
-│  ├─ df-digitalnomad-section-21
-
-├─ family-reunion.html
-│  ├─ df-familyreunion-form-reunite-with-family-in-brazil-with-family-reunion-residency
-│  ├─ df-familyreunion-list-quick-facts
-│  ├─ df-familyreunion-list-common-challenges-applicants-face
-│  ├─ df-familyreunion-list-how-we-solve-these-challenges
-│  ├─ df-familyreunion-section-residency-overview
-│  ├─ df-familyreunion-form-who-is-this-residency-for
-│  ├─ df-familyreunion-list-required-documents
-│  ├─ df-familyreunion-list-application-process
-│  ├─ df-familyreunion-section-timelines-deadlines
-│  ├─ df-familyreunion-section-fees-costs
-│  ├─ df-familyreunion-list-risks-common-mistakes
-│  ├─ df-familyreunion-section-diy-vs-professional-assistance
-│  ├─ df-familyreunion-section-distrito-federal-specific-context
-│  ├─ df-familyreunion-section-what-our-clients-say
-│  ├─ df-familyreunion-section-frequently-asked-questions
-│  ├─ df-familyreunion-section-international-support
-│  ├─ application-form
-│  ├─ df-familyreunion-list-our-credentials
-│  ├─ df-familyreunion-list-related-services
-│  ├─ df-familyreunion-section-youre-in-good-hands
-│  ├─ df-familyreunion-section-21
-
-├─ mercosul.html
-│  ├─ df-mercosul-form-residency-for-mercosul-citizens-in-brazil
-│  ├─ df-mercosul-list-quick-facts
-│  ├─ df-mercosul-list-common-challenges-applicants-face
-│  ├─ df-mercosul-list-how-we-solve-these-challenges
-│  ├─ df-mercosul-section-residency-overview
-│  ├─ df-mercosul-form-who-is-this-residency-for
-│  ├─ df-mercosul-list-required-documents
-│  ├─ df-mercosul-list-application-process
-│  ├─ df-mercosul-section-timelines-deadlines
-│  ├─ df-mercosul-section-fees-costs
-│  ├─ df-mercosul-list-risks-common-mistakes
-│  ├─ df-mercosul-section-diy-vs-professional-assistance
-│  ├─ df-mercosul-section-distrito-federal-specific-context
-│  ├─ df-mercosul-section-what-our-clients-say
-│  ├─ df-mercosul-section-frequently-asked-questions
-│  ├─ df-mercosul-section-international-support
-│  ├─ application-form
-│  ├─ df-mercosul-list-our-credentials
-│  ├─ df-mercosul-list-related-services
-│  ├─ df-mercosul-section-youre-in-good-hands
-│  ├─ df-mercosul-section-21
-
-├─ retiree.html
-│  ├─ df-retiree-form-retire-in-brazil-with-retiree-residency
-│  ├─ df-retiree-list-quick-facts
-│  ├─ df-retiree-list-common-challenges-applicants-face
-│  ├─ df-retiree-list-how-we-solve-these-challenges
-│  ├─ df-retiree-section-residency-overview
-│  ├─ df-retiree-form-who-is-this-residency-for
-│  ├─ df-retiree-list-required-documents
-│  ├─ df-retiree-list-application-process
-│  ├─ df-retiree-section-timelines-deadlines
-│  ├─ df-retiree-section-fees-costs
-│  ├─ df-retiree-list-risks-common-mistakes
-│  ├─ df-retiree-section-diy-vs-professional-assistance
-│  ├─ df-retiree-section-distrito-federal-specific-context
-│  ├─ df-retiree-section-what-our-clients-say
-│  ├─ df-retiree-section-frequently-asked-questions
-│  ├─ df-retiree-section-international-support
-│  ├─ application-form
-│  ├─ df-retiree-list-our-credentials
-│  ├─ df-retiree-list-related-services
-│  ├─ df-retiree-section-youre-in-good-hands
-│  ├─ df-retiree-section-21
-
-├─ volunteer.html
-│  ├─ df-volunteer-form-volunteer-in-brazil-with-volunteer-residency
-│  ├─ df-volunteer-list-quick-facts
-│  ├─ df-volunteer-list-common-challenges-applicants-face
-│  ├─ df-volunteer-list-how-we-solve-these-challenges
-│  ├─ df-volunteer-section-residency-overview
-│  ├─ df-volunteer-form-who-is-this-residency-for
-│  ├─ df-volunteer-list-required-documents
-│  ├─ df-volunteer-list-application-process
-│  ├─ df-volunteer-section-timelines-deadlines
-│  ├─ df-volunteer-section-fees-costs
-│  ├─ df-volunteer-list-risks-common-mistakes
-│  ├─ df-volunteer-section-diy-vs-professional-assistance
-│  ├─ df-volunteer-section-distrito-federal-specific-context
-│  ├─ df-volunteer-section-what-our-clients-say
-│  ├─ df-volunteer-section-frequently-asked-questions
-│  ├─ df-volunteer-section-international-support
-│  ├─ application-form
-│  ├─ df-volunteer-list-our-credentials
-│  ├─ df-volunteer-list-related-services
-│  ├─ df-volunteer-section-youre-in-good-hands
-│  ├─ df-volunteer-section-21
-
-├─ skilled-worker.html
-│  ├─ df-skilledworker-form-skilled-worker-residency-in-brazil-for-professionals
-│  ├─ df-skilledworker-list-quick-facts
-│  ├─ df-skilledworker-list-common-challenges-applicants-face
-│  ├─ df-skilledworker-list-how-we-solve-these-challenges
-│  ├─ df-skilledworker-section-residency-overview
-│  ├─ df-skilledworker-form-who-is-this-residency-for
-│  ├─ df-skilledworker-list-required-documents
-│  ├─ df-skilledworker-list-application-process
-│  ├─ df-skilledworker-section-timelines-deadlines
-│  ├─ df-skilledworker-section-fees-costs
-│  ├─ df-skilledworker-list-risks-common-mistakes
-│  ├─ df-skilledworker-section-diy-vs-professional-assistance
-│  ├─ df-skilledworker-section-distrito-federal-specific-context
-│  ├─ df-skilledworker-section-what-our-clients-say
-│  ├─ df-skilledworker-section-frequently-asked-questions
-│  ├─ df-skilledworker-section-international-support
-│  ├─ application-form
-│  ├─ df-skilledworker-list-our-credentials
-│  ├─ df-skilledworker-list-related-services
-│  ├─ df-skilledworker-section-youre-in-good-hands
-│  ├─ df-skilledworker-section-21
-
-├─ religious.html
-│  ├─ df-religious-form-religious-residency-in-brazil-for-missions
-│  ├─ df-religious-list-quick-facts
-│  ├─ df-religious-list-common-challenges-applicants-face
-│  ├─ df-religious-list-how-we-solve-these-challenges
-│  ├─ df-religious-section-residency-overview
-│  ├─ df-religious-form-who-is-this-residency-for
-│  ├─ df-religious-list-required-documents
-│  ├─ df-religious-list-application-process
-│  ├─ df-religious-section-timelines-deadlines
-│  ├─ df-religious-section-fees-costs
-│  ├─ df-religious-list-risks-common-mistakes
-│  ├─ df-religious-section-diy-vs-professional-assistance
-│  ├─ df-religious-section-distrito-federal-specific-context
-│  ├─ df-religious-section-what-our-clients-say
-│  ├─ df-religious-section-frequently-asked-questions
-│  ├─ df-religious-section-international-support
-│  ├─ application-form
-│  ├─ df-religious-list-our-credentials
-│  ├─ df-religious-list-related-services
-│  ├─ df-religious-section-youre-in-good-hands
-│  ├─ df-religious-section-21
-
-├─ investor.html
-│  ├─ df-investor-form-gain-residency-in-brazil-through-investment
-│  ├─ df-investor-list-quick-facts
-│  ├─ df-investor-list-common-challenges-applicants-face
-│  ├─ df-investor-list-how-we-solve-these-challenges
-│  ├─ df-investor-section-residency-overview
-│  ├─ df-investor-form-who-is-this-residency-for
-│  ├─ df-investor-list-required-documents
-│  ├─ df-investor-list-application-process
-│  ├─ df-investor-section-timelines-deadlines
-│  ├─ df-investor-section-fees-costs
-│  ├─ df-investor-list-risks-common-mistakes
-│  ├─ df-investor-section-diy-vs-professional-assistance
-│  ├─ df-investor-section-distrito-federal-specific-context
-│  ├─ df-investor-section-what-our-clients-say
-│  ├─ df-investor-section-frequently-asked-questions
-│  ├─ df-investor-section-international-support
-│  ├─ application-form
-│  ├─ df-investor-list-our-credentials
-│  ├─ df-investor-list-related-services
-│  ├─ df-investor-section-youre-in-good-hands
-│  ├─ df-investor-section-21
-
-├─ health-treatment.html
-│  ├─ df-healthtreatment-form-extend-your-stay-for-health-treatment-in-brazil
-│  ├─ df-healthtreatment-list-quick-facts
-│  ├─ df-healthtreatment-list-common-challenges-applicants-face
-│  ├─ df-healthtreatment-list-how-we-solve-these-challenges
-│  ├─ df-healthtreatment-section-residency-overview
-│  ├─ df-healthtreatment-form-who-is-this-residency-for
-│  ├─ df-healthtreatment-list-required-documents
-│  ├─ df-healthtreatment-list-application-process
-│  ├─ df-healthtreatment-section-timelines-deadlines
-│  ├─ df-healthtreatment-section-fees-costs
-│  ├─ df-healthtreatment-list-risks-common-mistakes
-│  ├─ df-healthtreatment-section-diy-vs-professional-assistance
-│  ├─ df-healthtreatment-section-distrito-federal-specific-context
-│  ├─ df-healthtreatment-section-what-our-clients-say
-│  ├─ df-healthtreatment-section-frequently-asked-questions
-│  ├─ df-healthtreatment-section-international-support
-│  ├─ application-form
-│  ├─ df-healthtreatment-list-our-credentials
-│  ├─ df-healthtreatment-list-related-services
-│  ├─ df-healthtreatment-section-youre-in-good-hands
-│  ├─ df-healthtreatment-section-21
-
-├─ cplp.html
-│  ├─ df-cplp-form-residency-for-cplp-citizens-in-brazil
-│  ├─ df-cplp-list-quick-facts
-│  ├─ df-cplp-list-common-challenges-applicants-face
-│  ├─ df-cplp-list-how-we-solve-these-challenges
-│  ├─ df-cplp-section-residency-overview
-│  ├─ df-cplp-form-who-is-this-residency-for
-│  ├─ df-cplp-list-required-documents
-│  ├─ df-cplp-list-application-process
-│  ├─ df-cplp-section-timelines-deadlines
-│  ├─ df-cplp-section-fees-costs
-│  ├─ df-cplp-list-risks-common-mistakes
-│  ├─ df-cplp-section-diy-vs-professional-assistance
-│  ├─ df-cplp-section-distrito-federal-specific-context
-│  ├─ df-cplp-section-what-our-clients-say
-│  ├─ df-cplp-section-frequently-asked-questions
-│  ├─ df-cplp-section-international-support
-│  ├─ application-form
-│  ├─ df-cplp-list-our-credentials
-│  ├─ df-cplp-list-related-services
-│  ├─ df-cplp-section-youre-in-good-hands
-│  ├─ df-cplp-section-21
-
-├─ youth-exchange.html
-│  ├─ df-youthexchange-form-youth-exchange-residency-in-brazil-for-programs
-│  ├─ df-youthexchange-list-quick-facts
-│  ├─ df-youthexchange-list-common-challenges-applicants-face
-│  ├─ df-youthexchange-list-how-we-solve-these-challenges
-│  ├─ df-youthexchange-section-residency-overview
-│  ├─ df-youthexchange-form-who-is-this-residency-for
-│  ├─ df-youthexchange-list-required-documents
-│  ├─ df-youthexchange-list-application-process
-│  ├─ df-youthexchange-section-timelines-deadlines
-│  ├─ df-youthexchange-section-fees-costs
-│  ├─ df-youthexchange-list-risks-common-mistakes
-│  ├─ df-youthexchange-section-diy-vs-professional-assistance
-│  ├─ df-youthexchange-section-distrito-federal-specific-context
-│  ├─ df-youthexchange-section-what-our-clients-say
-│  ├─ df-youthexchange-section-frequently-asked-questions
-│  ├─ df-youthexchange-section-international-support
-│  ├─ application-form
-│  ├─ df-youthexchange-list-our-credentials
-│  ├─ df-youthexchange-list-related-services
-│  ├─ df-youthexchange-section-youre-in-good-hands
-│  ├─ df-youthexchange-section-21
-
-├─ work.html
-│  ├─ df-work-form-work-and-reside-in-brazil-with-work-residency
-│  ├─ df-work-list-quick-facts
-│  ├─ df-work-list-common-challenges-applicants-face
-│  ├─ df-work-list-how-we-solve-these-challenges
-│  ├─ df-work-section-residency-overview
-│  ├─ df-work-form-who-is-this-residency-for
-│  ├─ df-work-list-required-documents
-│  ├─ df-work-list-application-process
-│  ├─ df-work-section-timelines-deadlines
-│  ├─ df-work-section-fees-costs
-│  ├─ df-work-list-risks-common-mistakes
-│  ├─ df-work-section-diy-vs-professional-assistance
-│  ├─ df-work-section-distrito-federal-specific-context
-│  ├─ df-work-section-what-our-clients-say
-│  ├─ df-work-section-frequently-asked-questions
-│  ├─ df-work-section-international-support
-│  ├─ application-form
-│  ├─ df-work-list-our-credentials
-│  ├─ df-work-list-related-services
-│  ├─ df-work-section-youre-in-good-hands
-│  ├─ df-work-section-21
-
-├─ startup.html
-│  ├─ df-startup-form-launch-your-startup-in-brazil-with-the-startup-visa
-│  ├─ df-startup-list-quick-facts
-│  ├─ df-startup-list-common-challenges-applicants-face
-│  ├─ df-startup-list-how-we-solve-these-challenges
-│  ├─ df-startup-section-visa-overview
-│  ├─ df-startup-form-who-is-this-visa-for
-│  ├─ df-startup-list-required-documents
-│  ├─ df-startup-list-application-process
-│  ├─ df-startup-section-timelines-deadlines
-│  ├─ df-startup-section-fees-costs
-│  ├─ df-startup-list-risks-common-mistakes
-│  ├─ df-startup-section-diy-vs-professional-assistance
-│  ├─ df-startup-section-distrito-federal-specific-context
-│  ├─ df-startup-section-what-our-clients-say
-│  ├─ df-startup-section-frequently-asked-questions
-│  ├─ df-startup-section-international-support
-│  ├─ application-form
-│  ├─ df-startup-list-our-credentials
-│  ├─ df-startup-list-related-services
-│  ├─ df-startup-section-youre-in-good-hands
-│  ├─ df-startup-section-21
-
-├─ family.html
-│  ├─ df-family-form-reunite-with-family-in-brazil-with-the-family-visa
-│  ├─ df-family-list-quick-facts
-│  ├─ df-family-list-common-challenges-applicants-face
-│  ├─ df-family-list-how-we-solve-these-challenges
-│  ├─ df-family-section-visa-overview
-│  ├─ df-family-form-who-is-this-visa-for
-│  ├─ df-family-list-required-documents
-│  ├─ df-family-list-application-process
-│  ├─ df-family-section-timelines-deadlines
-│  ├─ df-family-section-fees-costs
-│  ├─ df-family-list-risks-common-mistakes
-│  ├─ df-family-section-diy-vs-professional-assistance
-│  ├─ df-family-section-distrito-federal-specific-context
-│  ├─ df-family-section-what-our-clients-say
-│  ├─ df-family-section-frequently-asked-questions
-│  ├─ df-family-section-international-support
-│  ├─ application-form
-│  ├─ df-family-list-our-credentials
-│  ├─ df-family-list-related-services
-│  ├─ df-family-section-youre-in-good-hands
-│  ├─ df-family-section-21
-
-├─ sports.html
-│  ├─ df-sports-form-compete-in-brazil-with-the-sports-visa
-│  ├─ df-sports-list-quick-facts
-│  ├─ df-sports-list-common-challenges-applicants-face
-│  ├─ df-sports-list-how-we-solve-these-challenges
-│  ├─ df-sports-section-visa-overview
-│  ├─ df-sports-form-who-is-this-visa-for
-│  ├─ df-sports-list-required-documents
-│  ├─ df-sports-list-application-process
-│  ├─ df-sports-section-timelines-deadlines
-│  ├─ df-sports-section-fees-costs
-│  ├─ df-sports-list-risks-common-mistakes
-│  ├─ df-sports-section-diy-vs-professional-assistance
-│  ├─ df-sports-section-distrito-federal-specific-context
-│  ├─ df-sports-section-what-our-clients-say
-│  ├─ df-sports-section-frequently-asked-questions
-│  ├─ df-sports-section-international-support
-│  ├─ application-form
-│  ├─ df-sports-list-our-credentials
-│  ├─ df-sports-list-related-services
-│  ├─ df-sports-section-youre-in-good-hands
-│  ├─ df-sports-section-21
-
-├─ medical.html
-│  ├─ df-medical-form-receive-medical-treatment-in-brazil-with-the-medical-visa
-│  ├─ df-medical-list-quick-facts
-│  ├─ df-medical-list-common-challenges-applicants-face
-│  ├─ df-medical-list-how-we-solve-these-challenges
-│  ├─ df-medical-section-visa-overview
-│  ├─ df-medical-form-who-is-this-visa-for
-│  ├─ df-medical-list-required-documents
-│  ├─ df-medical-list-application-process
-│  ├─ df-medical-section-timelines-deadlines
-│  ├─ df-medical-section-fees-costs
-│  ├─ df-medical-list-risks-common-mistakes
-│  ├─ df-medical-section-diy-vs-professional-assistance
-│  ├─ df-medical-section-distrito-federal-specific-context
-│  ├─ df-medical-section-what-our-clients-say
-│  ├─ df-medical-section-frequently-asked-questions
-│  ├─ df-medical-section-international-support
-│  ├─ application-form
-│  ├─ df-medical-list-our-credentials
-│  ├─ df-medical-list-related-services
-│  ├─ df-medical-section-youre-in-good-hands
-│  ├─ df-medical-section-21
-
-├─ tourist.html
-│  ├─ df-tourist-form-visit-brazil-as-a-tourist-with-the-tourist-visa
-│  ├─ df-tourist-list-quick-facts
-│  ├─ df-tourist-list-common-challenges-applicants-face
-│  ├─ df-tourist-list-how-we-solve-these-challenges
-│  ├─ df-tourist-section-visa-overview
-│  ├─ df-tourist-form-who-is-this-visa-for
-│  ├─ df-tourist-list-required-documents
-│  ├─ df-tourist-list-application-process
-│  ├─ df-tourist-section-timelines-deadlines
-│  ├─ df-tourist-section-fees-costs
-│  ├─ df-tourist-list-risks-common-mistakes
-│  ├─ df-tourist-section-diy-vs-professional-assistance
-│  ├─ df-tourist-section-distrito-federal-specific-context
-│  ├─ df-tourist-section-what-our-clients-say
-│  ├─ df-tourist-section-frequently-asked-questions
-│  ├─ df-tourist-section-international-support
-│  ├─ application-form
-│  ├─ df-tourist-list-our-credentials
-│  ├─ df-tourist-list-related-services
-│  ├─ df-tourist-section-youre-in-good-hands
-│  ├─ df-tourist-section-21
-
-├─ transit.html
-│  ├─ df-transit-form-transit-through-brazil-with-the-transit-visa
-│  ├─ df-transit-list-quick-facts
-│  ├─ df-transit-list-common-challenges-applicants-face
-│  ├─ df-transit-list-how-we-solve-these-challenges
-│  ├─ df-transit-section-visa-overview
-│  ├─ df-transit-form-who-is-this-visa-for
-│  ├─ df-transit-list-required-documents
-│  ├─ df-transit-list-application-process
-│  ├─ df-transit-section-timelines-deadlines
-│  ├─ df-transit-section-fees-costs
-│  ├─ df-transit-list-risks-common-mistakes
-│  ├─ df-transit-section-diy-vs-professional-assistance
-│  ├─ df-transit-section-distrito-federal-specific-context
-│  ├─ df-transit-section-what-our-clients-say
-│  ├─ df-transit-section-frequently-asked-questions
-│  ├─ df-transit-section-international-support
-│  ├─ application-form
-│  ├─ df-transit-list-our-credentials
-│  ├─ df-transit-list-related-services
-│  ├─ df-transit-section-youre-in-good-hands
-│  ├─ df-transit-section-21
-
-├─ student.html
-│  ├─ df-student-form-study-in-brazil-with-the-student-visa
-│  ├─ df-student-list-quick-facts
-│  ├─ df-student-list-common-challenges-applicants-face
-│  ├─ df-student-list-how-we-solve-these-challenges
-│  ├─ df-student-section-visa-overview
-│  ├─ df-student-form-who-is-this-visa-for
-│  ├─ df-student-list-required-documents
-│  ├─ df-student-list-application-process
-│  ├─ df-student-section-timelines-deadlines
-│  ├─ df-student-section-fees-costs
-│  ├─ df-student-list-risks-common-mistakes
-│  ├─ df-student-section-diy-vs-professional-assistance
-│  ├─ df-student-section-distrito-federal-specific-context
-│  ├─ df-student-section-what-our-clients-say
-│  ├─ df-student-section-frequently-asked-questions
-│  ├─ df-student-section-international-support
-│  ├─ application-form
-│  ├─ df-student-list-our-credentials
-│  ├─ df-student-list-related-services
-│  ├─ df-student-section-youre-in-good-hands
-│  ├─ df-student-section-21
-
-├─ business.html
-│  ├─ df-business-form-conduct-business-in-brazil-with-the-business-visa
-│  ├─ df-business-list-quick-facts
-│  ├─ df-business-list-common-challenges-applicants-face
-│  ├─ df-business-list-how-we-solve-these-challenges
-│  ├─ df-business-section-visa-overview
-│  ├─ df-business-form-who-is-this-visa-for
-│  ├─ df-business-list-required-documents
-│  ├─ df-business-list-application-process
-│  ├─ df-business-section-timelines-deadlines
-│  ├─ df-business-section-fees-costs
-│  ├─ df-business-list-risks-common-mistakes
-│  ├─ df-business-section-diy-vs-professional-assistance
-│  ├─ df-business-section-distrito-federal-specific-context
-│  ├─ df-business-section-what-our-clients-say
-│  ├─ df-business-section-frequently-asked-questions
-│  ├─ df-business-section-international-support
-│  ├─ application-form
-│  ├─ df-business-list-our-credentials
-│  ├─ df-business-list-related-services
-│  ├─ df-business-section-youre-in-good-hands
-│  ├─ df-business-section-21
-
-├─ research.html
-│  ├─ df-research-form-conduct-research-in-brazil-with-the-research-visa
-│  ├─ df-research-list-quick-facts
-│  ├─ df-research-list-common-challenges-applicants-face
-│  ├─ df-research-list-how-we-solve-these-challenges
-│  ├─ df-research-section-visa-overview
-│  ├─ df-research-form-who-is-this-visa-for
-│  ├─ df-research-list-required-documents
-│  ├─ df-research-list-application-process
-│  ├─ df-research-section-timelines-deadlines
-│  ├─ df-research-section-fees-costs
-│  ├─ df-research-list-risks-common-mistakes
-│  ├─ df-research-section-diy-vs-professional-assistance
-│  ├─ df-research-section-distrito-federal-specific-context
-│  ├─ df-research-section-what-our-clients-say
-│  ├─ df-research-section-frequently-asked-questions
-│  ├─ df-research-section-international-support
-│  ├─ application-form
-│  ├─ df-research-list-our-credentials
-│  ├─ df-research-list-related-services
-│  ├─ df-research-section-youre-in-good-hands
-│  ├─ df-research-section-21
-
-├─ diplomatic.html
-│  ├─ df-diplomatic-form-official-diplomatic-visa-for-brazil-missions
-│  ├─ df-diplomatic-list-quick-facts
-│  ├─ df-diplomatic-list-common-challenges-applicants-face
-│  ├─ df-diplomatic-list-how-we-solve-these-challenges
-│  ├─ df-diplomatic-section-visa-overview
-│  ├─ df-diplomatic-form-who-is-this-visa-for
-│  ├─ df-diplomatic-list-required-documents
-│  ├─ df-diplomatic-list-application-process
-│  ├─ df-diplomatic-section-timelines-deadlines
-│  ├─ df-diplomatic-section-fees-costs
-│  ├─ df-diplomatic-list-risks-common-mistakes
-│  ├─ df-diplomatic-section-diy-vs-professional-assistance
-│  ├─ df-diplomatic-section-distrito-federal-specific-context
-│  ├─ df-diplomatic-section-what-our-clients-say
-│  ├─ df-diplomatic-section-frequently-asked-questions
-│  ├─ df-diplomatic-section-international-support
-│  ├─ application-form
-│  ├─ df-diplomatic-list-our-credentials
-│  ├─ df-diplomatic-list-related-services
-│  ├─ df-diplomatic-section-youre-in-good-hands
-│  ├─ df-diplomatic-section-21
-
-├─ journalist.html
-│  ├─ df-journalist-form-cover-news-in-brazil-with-the-journalist-visa
-│  ├─ df-journalist-list-quick-facts
-│  ├─ df-journalist-list-common-challenges-applicants-face
-│  ├─ df-journalist-list-how-we-solve-these-challenges
-│  ├─ df-journalist-section-visa-overview
-│  ├─ df-journalist-form-who-is-this-visa-for
-│  ├─ df-journalist-list-required-documents
-│  ├─ df-journalist-list-application-process
-│  ├─ df-journalist-section-timelines-deadlines
-│  ├─ df-journalist-section-fees-costs
-│  ├─ df-journalist-list-risks-common-mistakes
-│  ├─ df-journalist-section-diy-vs-professional-assistance
-│  ├─ df-journalist-section-distrito-federal-specific-context
-│  ├─ df-journalist-section-what-our-clients-say
-│  ├─ df-journalist-section-frequently-asked-questions
-│  ├─ df-journalist-section-international-support
-│  ├─ application-form
-│  ├─ df-journalist-list-our-credentials
-│  ├─ df-journalist-list-related-services
-│  ├─ df-journalist-section-youre-in-good-hands
-│  ├─ df-journalist-section-21
-
-├─ fines.html
-│  ├─ df-fines-form-resolve-immigration-fines-in-brazil
-│  ├─ df-fines-list-quick-facts
-│  ├─ df-fines-list-common-challenges-applicants-face
-│  ├─ df-fines-list-how-we-solve-these-challenges
-│  ├─ df-fines-section-service-overview
-│  ├─ df-fines-form-who-is-this-service-for
-│  ├─ df-fines-list-required-documents
-│  ├─ df-fines-list-process
-│  ├─ df-fines-section-timelines-deadlines
-│  ├─ df-fines-section-fees-costs
-│  ├─ df-fines-list-risks-common-mistakes
-│  ├─ df-fines-section-diy-vs-professional-assistance
-│  ├─ df-fines-section-distrito-federal-specific-context
-│  ├─ df-fines-section-what-our-clients-say
-│  ├─ df-fines-section-frequently-asked-questions
-│  ├─ df-fines-section-international-support
-│  ├─ application-form
-│  ├─ df-fines-list-our-credentials
-│  ├─ df-fines-list-related-services
-│  ├─ df-fines-section-youre-in-good-hands
-│  ├─ df-fines-section-21
-
-├─ deportation.html
-│  ├─ df-deportation-form-deportation-assistance-in-brazil
-│  ├─ df-deportation-list-quick-facts
-│  ├─ df-deportation-list-common-challenges-applicants-face
-│  ├─ df-deportation-list-how-we-solve-these-challenges
-│  ├─ df-deportation-section-service-overview
-│  ├─ df-deportation-form-who-is-this-service-for
-│  ├─ df-deportation-list-required-documents
-│  ├─ df-deportation-list-process
-│  ├─ df-deportation-section-timelines-deadlines
-│  ├─ df-deportation-section-fees-costs
-│  ├─ df-deportation-list-risks-common-mistakes
-│  ├─ df-deportation-section-diy-vs-professional-assistance
-│  ├─ df-deportation-section-distrito-federal-specific-context
-│  ├─ df-deportation-section-what-our-clients-say
-│  ├─ df-deportation-section-frequently-asked-questions
-│  ├─ df-deportation-section-international-support
-│  ├─ application-form
-│  ├─ df-deportation-list-our-credentials
-│  ├─ df-deportation-list-related-services
-│  ├─ df-deportation-section-youre-in-good-hands
-│  ├─ df-deportation-section-21
-
-├─ translation.html
-│  ├─ df-translation-form-sworn-document-translation-services-in-brazil
-│  ├─ df-translation-list-quick-facts
-│  ├─ df-translation-list-common-challenges-applicants-face
-│  ├─ df-translation-list-how-we-solve-these-challenges
-│  ├─ df-translation-section-service-overview
-│  ├─ df-translation-form-who-is-this-service-for
-│  ├─ df-translation-list-required-documents
-│  ├─ df-translation-list-process
-│  ├─ df-translation-section-timelines-deadlines
-│  ├─ df-translation-section-fees-costs
-│  ├─ df-translation-list-risks-common-mistakes
-│  ├─ df-translation-section-diy-vs-professional-assistance
-│  ├─ df-translation-section-distrito-federal-specific-context
-│  ├─ df-translation-section-what-our-clients-say
-│  ├─ df-translation-section-frequently-asked-questions
-│  ├─ df-translation-section-international-support
-│  ├─ application-form
-│  ├─ df-translation-list-our-credentials
-│  ├─ df-translation-list-related-services
-│  ├─ df-translation-section-youre-in-good-hands
-│  ├─ df-translation-section-21
-
-├─ expulsion.html
-│  ├─ df-expulsion-form-expulsion-assistance-in-brazil
-│  ├─ df-expulsion-list-quick-facts
-│  ├─ df-expulsion-list-common-challenges-applicants-face
-│  ├─ df-expulsion-list-how-we-solve-these-challenges
-│  ├─ df-expulsion-section-service-overview
-│  ├─ df-expulsion-form-who-is-this-service-for
-│  ├─ df-expulsion-list-required-documents
-│  ├─ df-expulsion-list-process
-│  ├─ df-expulsion-section-timelines-deadlines
-│  ├─ df-expulsion-section-fees-costs
-│  ├─ df-expulsion-list-risks-common-mistakes
-│  ├─ df-expulsion-section-diy-vs-professional-assistance
-│  ├─ df-expulsion-section-distrito-federal-specific-context
-│  ├─ df-expulsion-section-what-our-clients-say
-│  ├─ df-expulsion-section-frequently-asked-questions
-│  ├─ df-expulsion-section-international-support
-│  ├─ application-form
-│  ├─ df-expulsion-list-our-credentials
-│  ├─ df-expulsion-list-related-services
-│  ├─ df-expulsion-section-youre-in-good-hands
-│  ├─ df-expulsion-section-21
-
-├─ appeals.html
-│  ├─ df-appeals-form-appeal-immigration-denials-in-brazil
-│  ├─ df-appeals-list-quick-facts
-│  ├─ df-appeals-list-common-challenges-applicants-face
-│  ├─ df-appeals-list-how-we-solve-these-challenges
-│  ├─ df-appeals-section-service-overview
-│  ├─ df-appeals-form-who-is-this-service-for
-│  ├─ df-appeals-list-required-documents
-│  ├─ df-appeals-list-appeal-process
-│  ├─ df-appeals-section-timelines-deadlines
-│  ├─ df-appeals-section-fees-costs
-│  ├─ df-appeals-list-risks-common-mistakes
-│  ├─ df-appeals-section-diy-vs-professional-assistance
-│  ├─ df-appeals-section-distrito-federal-specific-context
-│  ├─ df-appeals-section-what-our-clients-say
-│  ├─ df-appeals-section-frequently-asked-questions
-│  ├─ df-appeals-section-international-support
-│  ├─ application-form
-│  ├─ df-appeals-list-our-credentials
-│  ├─ df-appeals-list-related-services
-│  ├─ df-appeals-section-youre-in-good-hands
-│  ├─ df-appeals-section-21
-
-├─ consular.html
-│  ├─ df-consular-form-consular-services-in-brazil-for-citizens
-│  ├─ df-consular-list-quick-facts
-│  ├─ df-consular-list-common-challenges-applicants-face
-│  ├─ df-consular-list-how-we-solve-these-challenges
-│  ├─ df-consular-section-service-overview
-│  ├─ df-consular-form-who-is-this-service-for
-│  ├─ df-consular-list-required-documents
-│  ├─ df-consular-list-process
-│  ├─ df-consular-section-timelines-deadlines
-│  ├─ df-consular-section-fees-costs
-│  ├─ df-consular-list-risks-common-mistakes
-│  ├─ df-consular-section-diy-vs-professional-assistance
-│  ├─ df-consular-section-distrito-federal-specific-context
-│  ├─ df-consular-section-what-our-clients-say
-│  ├─ df-consular-section-frequently-asked-questions
-│  ├─ df-consular-section-international-support
-│  ├─ application-form
-│  ├─ df-consular-list-our-credentials
-│  ├─ df-consular-list-related-services
-│  ├─ df-consular-section-youre-in-good-hands
-│  ├─ df-consular-section-21
-
-├─ criminal-records.html
-│  ├─ df-criminalrecords-form-obtain-criminal-records-certificate-in-brazil
-│  ├─ df-criminalrecords-list-quick-facts
-│  ├─ df-criminalrecords-list-common-challenges-applicants-face
-│  ├─ df-criminalrecords-list-how-we-solve-these-challenges
-│  ├─ df-criminalrecords-section-service-overview
-│  ├─ df-criminalrecords-form-who-is-this-service-for
-│  ├─ df-criminalrecords-list-required-documents
-│  ├─ df-criminalrecords-list-process
-│  ├─ df-criminalrecords-section-timelines-deadlines
-│  ├─ df-criminalrecords-section-fees-costs
-│  ├─ df-criminalrecords-list-risks-common-mistakes
-│  ├─ df-criminalrecords-section-diy-vs-professional-assistance
-│  ├─ df-criminalrecords-section-distrito-federal-specific-context
-│  ├─ df-criminalrecords-section-what-our-clients-say
-│  ├─ df-criminalrecords-section-frequently-asked-questions
-│  ├─ df-criminalrecords-section-international-support
-│  ├─ application-form
-│  ├─ df-criminalrecords-list-our-credentials
-│  ├─ df-criminalrecords-list-related-services
-│  ├─ df-criminalrecords-section-youre-in-good-hands
-│  ├─ df-criminalrecords-section-21
-
-├─ extradition.html
-│  ├─ df-extradition-form-extradition-assistance-in-brazil
-│  ├─ df-extradition-list-quick-facts
-│  ├─ df-extradition-list-common-challenges-applicants-face
-│  ├─ df-extradition-list-how-we-solve-these-challenges
-│  ├─ df-extradition-section-service-overview
-│  ├─ df-extradition-form-who-is-this-service-for
-│  ├─ df-extradition-list-required-documents
-│  ├─ df-extradition-list-process
-│  ├─ df-extradition-section-timelines-deadlines
-│  ├─ df-extradition-section-fees-costs
-│  ├─ df-extradition-list-risks-common-mistakes
-│  ├─ df-extradition-section-diy-vs-professional-assistance
-│  ├─ df-extradition-section-distrito-federal-specific-context
-│  ├─ df-extradition-section-what-our-clients-say
-│  ├─ df-extradition-section-frequently-asked-questions
-│  ├─ df-extradition-section-international-support
-│  ├─ application-form
-│  ├─ df-extradition-list-our-credentials
-│  ├─ df-extradition-list-related-services
-│  ├─ df-extradition-section-youre-in-good-hands
-│  ├─ df-extradition-section-21
-
-├─ north.html
-│  ├─ df-north-form-discover-the-north-amazon-and-beyond
-│  ├─ df-north-list-quick-facts
-│  ├─ df-north-list-common-challenges-applicants-face
-│  ├─ df-north-list-how-we-solve-these-challenges
-│  ├─ df-north-section-trip-overview
-│  ├─ df-north-form-who-is-this-trip-for
-│  ├─ df-north-list-required-documents
-│  ├─ df-north-list-booking-process
-│  ├─ df-north-section-timelines-deadlines
-│  ├─ df-north-section-fees-costs
-│  ├─ df-north-list-risks-common-mistakes
-│  ├─ df-north-section-diy-vs-professional-assistance
-│  ├─ df-north-section-distrito-federal-specific-context
-│  ├─ df-north-section-what-our-clients-say
-│  ├─ df-north-section-frequently-asked-questions
-│  ├─ df-north-section-international-support
-│  ├─ application-form
-│  ├─ df-north-list-our-credentials
-│  ├─ df-north-list-related-services
-│  ├─ df-north-section-youre-in-good-hands
-│  ├─ df-north-section-21
+├─ mobile-nav.html
+│  ├─ mobile-nav
 
 ├─ central-west.html
-│  ├─ df-centralwest-form-wild-centralwest-pantanal-and-cerrado
-│  ├─ df-centralwest-list-quick-facts
-│  ├─ df-centralwest-list-common-challenges-applicants-face
-│  ├─ df-centralwest-list-how-we-solve-these-challenges
-│  ├─ df-centralwest-section-trip-overview
-│  ├─ df-centralwest-form-who-is-this-trip-for
-│  ├─ df-centralwest-list-required-documents
-│  ├─ df-centralwest-list-booking-process
-│  ├─ df-centralwest-section-timelines-deadlines
-│  ├─ df-centralwest-section-fees-costs
-│  ├─ df-centralwest-list-risks-common-mistakes
-│  ├─ df-centralwest-section-diy-vs-professional-assistance
-│  ├─ df-centralwest-section-distrito-federal-specific-context
-│  ├─ df-centralwest-section-what-our-clients-say
-│  ├─ df-centralwest-section-frequently-asked-questions
-│  ├─ df-centralwest-section-international-support
-│  ├─ application-form
-│  ├─ df-centralwest-list-our-credentials
-│  ├─ df-centralwest-list-related-services
-│  ├─ df-centralwest-section-youre-in-good-hands
-│  ├─ df-centralwest-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
-├─ southeast.html
-│  ├─ df-southeast-form-dynamic-southeast-cities-and-history
-│  ├─ df-southeast-list-quick-facts
-│  ├─ df-southeast-list-common-challenges-applicants-face
-│  ├─ df-southeast-list-how-we-solve-these-challenges
-│  ├─ df-southeast-section-trip-overview
-│  ├─ df-southeast-form-who-is-this-trip-for
-│  ├─ df-southeast-list-required-documents
-│  ├─ df-southeast-list-booking-process
-│  ├─ df-southeast-section-timelines-deadlines
-│  ├─ df-southeast-section-fees-costs
-│  ├─ df-southeast-list-risks-common-mistakes
-│  ├─ df-southeast-section-diy-vs-professional-assistance
-│  ├─ df-southeast-section-distrito-federal-specific-context
-│  ├─ df-southeast-section-what-our-clients-say
-│  ├─ df-southeast-section-frequently-asked-questions
-│  ├─ df-southeast-section-international-support
-│  ├─ application-form
-│  ├─ df-southeast-list-our-credentials
-│  ├─ df-southeast-list-related-services
-│  ├─ df-southeast-section-youre-in-good-hands
-│  ├─ df-southeast-section-21
+├─ north.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ northeast.html
-│  ├─ df-northeast-form-vibrant-northeast-beaches-and-culture
-│  ├─ df-northeast-list-quick-facts
-│  ├─ df-northeast-list-common-challenges-applicants-face
-│  ├─ df-northeast-list-how-we-solve-these-challenges
-│  ├─ df-northeast-section-trip-overview
-│  ├─ df-northeast-form-who-is-this-trip-for
-│  ├─ df-northeast-list-required-documents
-│  ├─ df-northeast-list-booking-process
-│  ├─ df-northeast-section-timelines-deadlines
-│  ├─ df-northeast-section-fees-costs
-│  ├─ df-northeast-list-risks-common-mistakes
-│  ├─ df-northeast-section-diy-vs-professional-assistance
-│  ├─ df-northeast-section-distrito-federal-specific-context
-│  ├─ df-northeast-section-what-our-clients-say
-│  ├─ df-northeast-section-frequently-asked-questions
-│  ├─ df-northeast-section-international-support
-│  ├─ application-form
-│  ├─ df-northeast-list-our-credentials
-│  ├─ df-northeast-list-related-services
-│  ├─ df-northeast-section-youre-in-good-hands
-│  ├─ df-northeast-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ south.html
-│  ├─ df-south-form-charming-south-wine-and-gauchos
-│  ├─ df-south-list-quick-facts
-│  ├─ df-south-list-common-challenges-applicants-face
-│  ├─ df-south-list-how-we-solve-these-challenges
-│  ├─ df-south-section-trip-overview
-│  ├─ df-south-form-who-is-this-trip-for
-│  ├─ df-south-list-required-documents
-│  ├─ df-south-list-booking-process
-│  ├─ df-south-section-timelines-deadlines
-│  ├─ df-south-section-fees-costs
-│  ├─ df-south-list-risks-common-mistakes
-│  ├─ df-south-section-diy-vs-professional-assistance
-│  ├─ df-south-section-distrito-federal-specific-context
-│  ├─ df-south-section-what-our-clients-say
-│  ├─ df-south-section-frequently-asked-questions
-│  ├─ df-south-section-international-support
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ southeast.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ derivative.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ extraordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ ordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ provisional.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ reacquisition-citizenship.html
+│  ├─ hero-heading
 │  ├─ application-form
-│  ├─ df-south-list-our-credentials
-│  ├─ df-south-list-related-services
-│  ├─ df-south-section-youre-in-good-hands
-│  ├─ df-south-section-21
+
+├─ reacquisition.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ renouncing-citizenship.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ special.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ apostille.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ appeals.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ authentication.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ company-formation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ consular.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ consultation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cpf.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ criminal-records.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ deportation.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ expulsion.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ extradition.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ fines.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ power-of-attorney.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ rne.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ translation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cplp.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ crnm.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family-reunion.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ health-treatment.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investment.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investor.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ marriage.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ mercosul.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ permanent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ researcher.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ scientific-research.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ skilled-worker.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ startup.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ study.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ temporary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ youth-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ artist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ artistic.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ business.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ crew.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cultural.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ dependent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ diplomatic.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ investor.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ journalist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ medical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ missionary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ official.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ research.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ sports.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ startup.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ student.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ technical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ tourist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ transit.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
